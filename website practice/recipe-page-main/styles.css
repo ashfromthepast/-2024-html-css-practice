@@ -1,0 +1,72 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+    
+    .container
+    {
+      display: flex; 
+      flex-direction: column; 
+      justify-content: center; 
+      align-items: center; 
+      min-height: 100vh;
+      background-color: white;
+      width: 1000px; margin: 0 auto;
+      padding: 50px;
+      border-style: hidden;
+      border-radius:50px ;
+    }
+   
+    body
+    {
+      font-family: "Outfit", sans-serif;
+      font-size: 16px;
+      background-color:hsl(30, 54%, 90%);
+      color:hsl(30, 10%, 34%);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      min-height: 100svh;
+
+    }
+
+    table,th,td
+    {
+      
+      border-collapse: collapse;
+      border-color: grey;
+      padding:15px
+    
+    }
+    
+tr
+  {
+  border: bottom 55px solid;
+  }
+
+
+  
+
+
+    #prep_time
+    {
+     
+      color:hsl(332, 51%, 32%)
+    }
+
+    h2
+    {
+    font-family: "Young Serif", serif; 
+    color: hsl(14, 45%, 36%);
+    }
+
+    #recipe_title
+    {
+      color:hsl(24, 5%, 18%);
+      font-family: "Young Serif", serif;  
+    }
+
+    #food_image
+    {
+      width: 1000px;
+      height: 500px;
+    }
